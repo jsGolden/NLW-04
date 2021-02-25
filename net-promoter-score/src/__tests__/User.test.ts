@@ -6,7 +6,11 @@ import createConnection from '../database';
 describe("Users", () => {
     beforeAll(async () => {
         const connection = await createConnection();
-        await connection.runMigrations();
+        try {
+            await connection.runMigrations();
+        } catch (error) {
+           console.log("Migrations already up-to-date") 
+        } 
     });
 
     it("Should be able to create a new user", async () => {
