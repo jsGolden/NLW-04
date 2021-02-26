@@ -2,7 +2,6 @@ import { Request, Response } from "express";
 import { getCustomRepository, Not, IsNull } from "typeorm";
 import { SurveysUsersRepository } from "../repositories/SurveysUsersRepository";
 
-
 class NpsController {
     // * 1 2 3 4 5 6 7 8 9 10
     // * Detratores => 0 - 6 [Insatisfeitos]
