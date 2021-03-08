@@ -6,13 +6,10 @@ O NLW é um evento online feita pela [@Rocketseat](https://github.com/Rocketsea
 Sempre com um conteúdo novo a cada edição, você vai descobrir na prática uma metodologia eficiente para o seu aprendizado, além de conceitos, ferramentas e hacks que vão impulsionar sua carreira.
 
 Ocorrido durante os dias 22/02/2021 - 28/02/2021!
+
 ---
 
-# Move it - O Pomodoro em forma de jogo!
-
-<p align="center">
-  <img alt="Move-it"src=".github/thumb.svg" width="100%" height="auto">
-</p>
+# 💪 Move it - O Pomodoro em forma de jogo!
 
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,6 +18,11 @@ Ocorrido durante os dias 22/02/2021 - 28/02/2021!
   <a href="#-clonando">Clonar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
+
+<p align="center">
+  <img alt="Move-it"src=".github/thumb.svg" width="100%" height="auto">
+</p>
+
 
 ## 📌 Projeto
 <br>
