@@ -64,11 +64,11 @@ Você pode acessar este repositório rodando em um servidor da Vercel!
 # 📈 Net Promoter Score - A avaliação empresarial via e-mail!
 
 <p align="center">
-  <a href="#- projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#- tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#- rotas">Rotas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#- clonando">Clonar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#- licença">Licença</a>
+  <a href="#-projeto-1">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias-1">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rotas-1">Rotas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-clonando-1">Clonar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença-1">Licença</a>
 </p>
 
 <p align="center">
@@ -76,13 +76,13 @@ Você pode acessar este repositório rodando em um servidor da Vercel!
 </p>
 
 
-## 📌  Projeto
+## 📌 Projeto
 <br>
     Este projeto é uma API com o objetivo de enviar email com pesquisas criadas previamente!
     Net Promoter Score é uma métrica que tem como objetivo medir a satisfação e lealdade dos clientes com as empresas. Organizações de todos os portes e lugares do mundo utilizam o NPS por ser um método prático e eficaz durante as pesquisas periódicas realizadas com seus clientes.
 <br>
 
-## 👩‍💻  Tecnologias
+## 👩‍💻 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -95,7 +95,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Jest](https://jestjs.io/)
 - [Typescript](https://www.typescriptlang.org/)
 
-## 🗺  Rotas
+## 🗺 Rotas
 ```js
     //POST
     base_url/users              // Cria um novo usuario
@@ -108,7 +108,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
     base_url/nps/:survey_id     // Responde uma determinada pesquisa
 ```
 
-## 📥  Clonando
+## 📥 Clonando
 Para clonar para seu repositório local use o seguinte comando no seu terminal de preferência:
 
 ```shell
@@ -121,7 +121,7 @@ Para clonar para seu repositório local use o seguinte comando no seu terminal d
 ```
 
 
-## 📝  Licença
+## 📝 Licença
 Esse repositório está sob a licença [MIT](LICENSE).
 
 ---
