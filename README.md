@@ -5,7 +5,7 @@ O NLW é um evento online feita pela [@Rocketseat](https://github.com/Rocketsea
 
 Sempre com um conteúdo novo a cada edição, você vai descobrir na prática uma metodologia eficiente para o seu aprendizado, além de conceitos, ferramentas e hacks que vão impulsionar sua carreira.
 
-Ocorrido durante os dias 22/02/2021 - 28/02/2021!
+**Ocorrido durante os dias 22/02/2021 - 28/02/2021!**
 
 ---
 
@@ -41,18 +41,22 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [MongoDB](https://www.mongodb.com/3)
 
 ## 🔖 Layout
-Você pode visualizar o layout do projeto [clicando aqui!](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
+Você pode visualizar o layout do projeto [clicando aqui!](https://www.figma.com/file/dgwUVyZexex1KKMG6ePSYn/Move.it-2.0-(Copy)?node-id=156638%3A199) 
 
 ## 📥 Clonando
 Para clonar para seu repositório local use o seguinte comando no seu terminal de preferência:
 
 ```shell
     git clone https://github.com/jsGolden/NLW-04    # Clonar repositório
-    cd NLW-04   # Entrar no repositório clonado
-    cd moveit-next  # Entrar na pasta move-it
-    yarn    # Instalar dependências
-    yarn dev # Iniciar servidor next
+    cd NLW-04                                       # Entrar no repositório clonado
+    cd moveit-next                                  # Entrar na pasta move-it
+    yarn                                            # Instalar dependências
+    yarn dev                                        # Iniciar servidor next
 ```
+
+## 🕹 Demonstração
+Você pode acessar este repositório rodando em um servidor da Vercel!
+[Basta clicar aqui!](https://moveit-codeit.vercel.app/)
 
 ## 📝 Licença
 Esse projeto está sob a licença [MIT](LICENSE).
