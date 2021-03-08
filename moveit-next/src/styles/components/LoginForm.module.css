@@ -1,0 +1,22 @@
+.loginForm header {
+  margin-bottom: 96px;
+}
+
+.loginForm main > h2 {
+  color: var(--white);
+  font-weight: 600;
+  font-size: 36px;
+  margin-bottom: 24px;
+}
+
+.git {
+  margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.git > p {
+  font-size: 18px;
+  color: var(--blue-text);
+  margin-left: 24px;
+}

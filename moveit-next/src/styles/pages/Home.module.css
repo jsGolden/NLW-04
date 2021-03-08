@@ -1,0 +1,33 @@
+.container {
+  height: 100vh;
+  background-color: var(--blue);
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.container section {
+  flex: 1;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3.25rem;
+  align-content: center;
+}
+
+.bodyLogo {
+  width: 100%;
+  height: auto;
+}
+
+@media only screen and (max-width: 768px) {
+  .container section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .bodyLogo {
+    display: none;
+  }
+}
