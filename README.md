@@ -12,7 +12,7 @@ Ocorrido durante os dias 22/02/2021 - 28/02/2021!
 # 💪 Move it - O Pomodoro em forma de jogo!
 
 <p align="center">
-  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-clonando">Clonar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## 🔖 Layout
 Você pode visualizar o layout do projeto [clicando aqui!](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
 
-# 📥 Clonando
+## 📥 Clonando
 Para clonar para seu repositório local use o seguinte comando no seu terminal de preferência:
 
 ```shell
