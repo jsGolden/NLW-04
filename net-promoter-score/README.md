@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="NPS"src=".github/nps.png" width="100%" height="auto">
+  <img alt="NPS"src="../.github/nps.png" width="100%" height="auto">
 </p>
 
 
